@@ -1,4 +1,4 @@
-# Remotion 工程对接说明
+# Remotion 项目中文说明
 
 Remotion 是一个使用 React 和 TypeScript 编程生成视频的工具集。React 组件负责画面，帧数负责时间轴，最终可渲染为 MP4、WebM、GIF 或静态图片。
 
